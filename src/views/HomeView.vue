@@ -15,7 +15,7 @@
                     Portfolio Under Construction
                 </h1>
                 <p class="font-light text-gray-500 md:text-lg xl:text-xl dark:text-gray-400">
-                    Hi there! 👋 <br>
+                    Hello there! 👋 <br>
                     Thanks for stopping by. <br><br>
 
                     I'm currently updating my personal website to better showcase my work as a Full Stack Web Developer.
